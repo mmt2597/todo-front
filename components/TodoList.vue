@@ -1,6 +1,6 @@
 <template>
     <v-card
-      class="mx-auto elevation-2 border-0 bg-white"
+      class="mx-auto border-0 bg-white"
       max-width="550"
       variant="outlined"
     >
