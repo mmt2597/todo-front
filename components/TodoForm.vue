@@ -13,7 +13,7 @@
       >
         <template v-slot:append-inner>
           <v-icon
-            @click:append-inner="addTask"
+            @click="addTask"
             icon="mdi-plus-circle"
             size="x-large"
             color="#01579B"
