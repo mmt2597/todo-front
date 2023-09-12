@@ -1,7 +1,7 @@
 <template>
     <v-card
       class="mx-auto elevation-2 border-0 bg-white"
-      max-width="600"
+      max-width="550"
       variant="outlined"
     >
       <TodoHeader />

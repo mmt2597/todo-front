@@ -1,16 +1,13 @@
 <template>
   <div id="app-container">
-    <h1 class="text-center mb-5 text-white text-h2 font-weight-bold">Vue ToDo List</h1>
+    <h1 class="text-center mb-5 text-white text-h2 font-weight-bold">
+      Vue ToDo List
+    </h1>
     <TodoList />
   </div>
 </template>
 
-
 <style>
-body {
-  background-color: lightgray;
-}
-
 #app-container {
   position: absolute;
   top: 50%;
@@ -19,5 +16,4 @@ body {
   width: 50%;
   height: 50%;
 }
-
 </style>
