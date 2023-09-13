@@ -14,7 +14,7 @@ A simple todo app built with Vue.js, Vuex, and Vuetify, allowing you to add, del
 
 ## Demo
 
-[Link to Live Demo](https://euphonious-sable-6a05e9.netlify.app/) (Insert a link to your live app if available)
+[Link to Live Demo](https://euphonious-sable-6a05e9.netlify.app/) (Click demo link)
 
 
 ## Features
