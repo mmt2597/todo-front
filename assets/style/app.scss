@@ -1,5 +1,9 @@
+body, html {
+    height: 100%;
+}
+
 body {
-    height: 100vh;
+    height: 100%;
     background-image: -webkit-gradient(
         linear,
         left top,
@@ -12,5 +16,7 @@ body {
     );
     background-image: -o-linear-gradient(top, #349d87, #0c8685, #046f7c, #1a576c, #244156);
     background-image: linear-gradient(to bottom, #349d87, #0c8685, #046f7c, #1a576c, #244156);
+    background-position: center;
+    background-size: cover;
     background-repeat: no-repeat;
 }
