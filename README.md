@@ -1,64 +1,59 @@
-# Nuxt 3 Minimal Starter
+# Todo App
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A simple todo app built with Vue.js, Vuex, and Vuetify, allowing you to add, delete, and mark tasks as done.
 
-## Setup
+## Table of Contents
 
-Make sure to install the dependencies:
+- [Demo](#demo)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-```bash
-# npm
-npm install
+## Demo
 
-# pnpm
-pnpm install
+[Link to Live Demo](https://euphonious-sable-6a05e9.netlify.app/) (Insert a link to your live app if available)
 
-# yarn
-yarn install
-```
+![Demo GIF](![image](https://github.com/mmt2597/todo-front/assets/26489387/0a8db51e-e3c4-46c5-b945-7b3660327847)
+) (Include a GIF or screenshot of your app in action)
 
-## Development Server
+## Features
 
-Start the development server on `http://localhost:3000`:
+- Add tasks to your todo list.
+- Delete tasks from your todo list.
+- Mark tasks as done.
+- View the total count of tasks.
+- View the total count of tasks done.
 
-```bash
-# npm
-npm run dev
+## Getting Started
 
-# pnpm
-pnpm run dev
+These instructions will help you set up a copy of the project on your local machine for development and testing purposes.
 
-# yarn
-yarn dev
-```
+### Prerequisites
 
-## Production
+- [Node.js](https://nodejs.org/) installed on your local machine.
 
-Build the application for production:
+### Installation
 
-```bash
-# npm
-npm run build
+1. Clone the repository:
 
-# pnpm
-pnpm run build
+   ```bash
+   git clone https://github.com/your-username/todo-app.git
 
-# yarn
-yarn build
-```
+2. Navigate to the project directory:
 
-Locally preview production build:
+   ```bash
+   cd todo-front
 
-```bash
-# npm
-npm run preview
+3. Install dependencies:
 
-# pnpm
-pnpm run preview
+   ```bash
+   npm install
 
-# yarn
-yarn preview
-```
+4. Run application:
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-# todo-front
+   ```bash
+   npm run dev
