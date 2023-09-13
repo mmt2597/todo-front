@@ -10,8 +10,7 @@ A simple todo app built with Vue.js, Vuex, and Vuetify, allowing you to add, del
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Demo
 
